@@ -1,5 +1,5 @@
 // Fill out your copyright notice in the Description page of Project Settings.
-
+//basado en el libro de unreal engine
 #pragma once
 #include "CoreMinimal.h"
 #include "NaveTerrestre.h"
